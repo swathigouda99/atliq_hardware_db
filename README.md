@@ -1,1 +1,36 @@
-# atliq_hardware_db
+Project details:
+Domain: Consumer Goods | Function: Executive Management
+Task: 
+
+* AtliQ Hardware is a leading electronic manufacturing company, offering a diverse range of hardware products to customers across various countries.
+* Their business operates through multiple channels, including retailers, distributors, and direct sales through two distinct platforms: brick-and-mortar stores and e-commerce.
+* They have established a significant market presence in their product segment across all countries they serve.
+* As they continue to experience substantial growth, they've encountered challenges in efficiently collecting and analyzing data from various sources. This 
+  impediment has the potential to hinder their ability to make informed decisions for future growth strategies and address issues promptly.
+
+
+KEY INSIGHTS:
+1. REQUEST 1
+ LIST OF MARKETS IN WHICH CUSTOMER "ATLIQ EXCLUSIVE" OPERATES ITS BUSINESS IN THE APAC REGION : INDIA , INDONESIA , JAPAN , PHILIPHINES , SOUTH KOREA , AUSTRALIA , NEWZEALAND , BANGLADESH.
+2. REQUEST 2
+ TOTAL UNIQUE PRODUCTS ARE 73, UNIQUE PRODUCTS IN 2020 51 , UNIQUE PRODUCTS IN 2021 68 , PERCENTAGE CHANGE IS 33.33.(not considered the variants column)
+3. REQUEST 3
+ IN TOTAL WE HAVE 6 SEGMENTS. ACCESSORIES AND PERIPHERALS HOLD THE HIGHEST PRODUCT COUNT.
+4. REQUEST 4
+ ACCESSORIES HAVE THE MOST INCEREASE IN UNIQUE PRODUCT FROM 2020 TO 2021
+5. REQUEST 5
+ AQ MASTER WIRED X1 MS HAS THE LOWEST MANUFACTURING COST AND AQ HOME ALLIN 1 GEN 2 HAS THE HIGHEST MANUFACTURING COST. 
+6. REQUEST 6
+ TOP 5 CUSTOMERS WHO RECEIVED AN AVERAGE HIGH PRE_INVOICE_DISCOUNT_PCT 
+WHEN GROUPED BY CUSTOMER COLUMN: FLIPKART,VIVEK,CROMA,EZONE, VIJAY SALES. 
+WHEN GROUPED BY CUSTOMER AND CUSTOMER CODE TOP 4 ARE SAME ONLY 5TH ONE IS AMAZON.
+7. REQUEST 7
+ HIGHEST GROSS SALES ARE OCCURES IN THE MONTH OF NOVEMBER IN 2020 AND GROSS SALES AMOUNT VALUE 32.24 MILLIONS AND LOWEST GROSS SALES ARE OCCURES IN THE MONTH OF MARCH IN 2020 AND GROSS SALES AMOUNT VALUE 0.76 MILLIONS
+8. REQUEST 8
+ QUARTER 1 HAVE THE HIGHEST TOTAL SOLD QUANTITY VALUE 7.01 MILLIONS. Quarters for this data starts from NOV 2019.
+9. REQUEST 9
+ RETAILERS HAVE THE HIGHEST GROSS SALES WITH PERCENTAGE OF 73.22%.
+10. REQUEST 10
+ WE HAVE GENERATED TOP 3 PRODUCTS FROM EACH DIVISIONS AND RANKED THEM ON THE BASIS OF HIGHEST SOLD QUANTITIES . THE DIVISIONS ARE : N&S , P&S AND PC
+YOU CAN FIND THE TOP PRODUCTS IN PRESENTATION GROUPED BY THOSE DIVISIONS.
+
